@@ -21,6 +21,10 @@ export default function SinglePost() {
                    Lorem ipsum dolor sit amet, consectetur adipisicing elit. Perferendis cum sit vel odio itaque iusto commodi. Non tempora qui nostrum fugit ut, ullam, debitis pariatur repudiandae inventore minima fugiat hic.lorem Lorem ipsum dolor sit amet consectetur adipisicing elit. Saepe officiis sapiente eaque maxime harum, repellat debitis nobis nesciunt. Laboriosam explicabo itaque maiores quidem sapiente culpa architecto eos, illum repellat placeat Lorem ipsum dolor sit amet consectetur adipisicing elit. Reiciendis porro id maiores. Perspiciatis quod nemo illo nesciunt temporibus possimus, deserunt doloribus autem nulla velit soluta iusto! Autem quasi sunt iste. Lorem ipsum dolor sit amet consectetur adipisicing elit. Ad ratione quaerat consectetur exercitationem necessitatibus dignissimos omnis debitis. Illo incidunt velit deleniti blanditiis ea praesentium optio aliquid quasi, laboriosam, dolorem placeat?
                    </p>
                </div>
+               <div className="singlePostReview">
+               <i className="singlePostReviewIcon fa-solid fa-thumbs-up"></i>
+               <i className="singlePostReviewIcon fa-solid fa-thumbs-down"></i>
+               </div>
        </div>
     
   )

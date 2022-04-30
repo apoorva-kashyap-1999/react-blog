@@ -11,6 +11,7 @@ export default function Write() {
                 </label>
                 <input type="file" id="fileInput" style={{display:"none"}}/>
                 <input type="text" placeholder="Title"  className="writeInput" autoFocus={true}/>
+                <input type="text" placeholder="Category" id="category"/>
             </div>
             <div className="writeFormGroup">
                 <textarea placeholder="Tell your story....." type="text" className="writeInput writeText"></textarea>

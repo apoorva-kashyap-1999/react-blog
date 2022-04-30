@@ -50,3 +50,13 @@
     font-size: 30px;
     font-weight: 500px;
 }
+.singlePostReviewIcon{
+    font-size:8px ;
+
+}
+.singlePostReviewIcon::first-child{
+    color: green;
+}
+.singlePostReviewIcon::last-child{
+    color: black;
+}
